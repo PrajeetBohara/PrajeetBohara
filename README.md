@@ -1,6 +1,6 @@
 < 👋 Hi, I’m @PrajeetBohara >
 
-I'm a passionate developer, researcher, and lifelong learner currently pursuing Computer Science with minors in Electrical Engineering and Mathematics at McNeese State University. I love building things that bridge software and hardware—from IoT systems to AI-powered interfaces.
+I'm a passionate developer, researcher, and lifelong learner. All I do is learn new stuff and apply it to build things.
 
 - 👀 I’m deeply interested in:
   - Full-Stack & Cross-Platform Development 🌐
