@@ -20,8 +20,6 @@ I'm a passionate developer, researcher, and lifelong learner. All I do is learn 
 
 ### 📊 GitHub Stats
 
-![Prajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajeetBohara&show_icons=true&theme=github_dark&count_private=true&hide_title=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajeetBohara&layout=compact&theme=github_dark)
 
 ---
