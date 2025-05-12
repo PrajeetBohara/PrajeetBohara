@@ -16,3 +16,16 @@ I'm a passionate developer, researcher, and lifelong learner. All I do is learn 
 
 
 > *“I write code to connect ideas to the real world — one circuit, one line, and one innovation at a time.”*
+
+
+### 📊 GitHub Stats
+
+![Prajeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajeetBohara&show_icons=true&theme=github_dark&count_private=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajeetBohara&layout=compact&theme=github_dark)
+
+---
+
+### 📈 Profile Views
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=PrajeetBohara&label=Profile%20Views&color=blue&style=flat-square)
