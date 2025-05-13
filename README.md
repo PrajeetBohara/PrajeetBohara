@@ -1,6 +1,6 @@
 < 👋 Hi, I’m @PrajeetBohara >
 
-I'm a passionate developer, researcher, and lifelong learner. All I do is learn new stuff and apply it to build things.
+A developer, researcher, and lifelong learner. All I do is learn new stuff and apply it to build things.
 
 - 👀 I’m deeply interested in:
   - Full-Stack & Cross-Platform Development 🌐
